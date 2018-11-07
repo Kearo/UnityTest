@@ -14,12 +14,12 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - groundTiles
+  - TileObjects
+  - littleTileObjects
+  - Player
+  - PlayerArt
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 39293451
     locked: 0
